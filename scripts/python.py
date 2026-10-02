@@ -3,7 +3,7 @@ import urllib.request
 from urllib.error import URLError, HTTPError
 from datetime import datetime
 
-URL = "http://pingdoe.com/ping/6a53bb50-c4ab-486f-99da-1fbb50194d18"
+URL = "https://pingdoe.com/ping/6a53bb50-c4ab-486f-99da-1fbb50194d18"
 INTERVAL_MINUTES = 5
 
 print(f"Starting PingDoe heartbeat every {INTERVAL_MINUTES} minutes...")
