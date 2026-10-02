@@ -11,12 +11,18 @@ Implement example script for:
 5. [Rust](https://github.com/pingdoe/example-scripts/blob/main/scripts/rust.rs)
 6. [typescript](https://github.com/pingdoe/example-scripts/blob/main/scripts/typescript.ts)
 7. [golang](https://github.com/pingdoe/example-scripts/blob/main/scripts/golang.go)
-8. Bash / Shell
-9. PowerShell
-10. PHP
-11. C# (.NET)
-12. Ruby
-13. Kotlin
-14. Swift
-15. Dart
-16. Elixir
+8. [Bash / Shell](https://github.com/pingdoe/example-scripts/blob/main/scripts/bash.sh)
+9. [PowerShell](https://github.com/pingdoe/example-scripts/blob/main/scripts/powershell.ps1)
+10. [PHP](https://github.com/pingdoe/example-scripts/blob/main/scripts/php.php)
+11. [C# (.NET)](https://github.com/pingdoe/example-scripts/blob/main/scripts/csharp.cs)
+12. [Ruby](https://github.com/pingdoe/example-scripts/blob/main/scripts/ruby.rb)
+13. [Kotlin](https://github.com/pingdoe/example-scripts/blob/main/scripts/kotlin.kt)
+14. [Swift](https://github.com/pingdoe/example-scripts/blob/main/scripts/swift.swift)
+15. [Dart](https://github.com/pingdoe/example-scripts/blob/main/scripts/dart.dart)
+16. [Elixir](https://github.com/pingdoe/example-scripts/blob/main/scripts/elixir.exs)
+17. [C](https://github.com/pingdoe/example-scripts/blob/main/scripts/c.c)
+18. [Perl](https://github.com/pingdoe/example-scripts/blob/main/scripts/perl.pl)
+19. [Scala](https://github.com/pingdoe/example-scripts/blob/main/scripts/scala.scala)
+20. [Lua](https://github.com/pingdoe/example-scripts/blob/main/scripts/lua.lua)
+21. [R](https://github.com/pingdoe/example-scripts/blob/main/scripts/r.R)
+22. [Zig](https://github.com/pingdoe/example-scripts/blob/main/scripts/zig.zig)
