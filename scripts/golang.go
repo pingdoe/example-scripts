@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	url := "https://pingdoe.com/ping/6a53bb50-c4ab-486f-99da-1fbb50194d18"
+	url := "https://pingdoe.com/ping/6a53bb50-c4ab-486f-99da-1fbb50194d18" // EXAMPLE link replace with own url
 	interval := 5 * time.Minute // Can be changed to time.Second etc.
 
 	fmt.Printf("Starting PingDoe heartbeat every %v...\n", interval)
