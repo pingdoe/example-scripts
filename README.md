@@ -11,3 +11,12 @@ Implement example script for:
 5. [Rust](https://github.com/pingdoe/example-scripts/blob/main/scripts/rust.rs)
 6. [typescript](https://github.com/pingdoe/example-scripts/blob/main/scripts/typescript.ts)
 7. [golang](https://github.com/pingdoe/example-scripts/blob/main/scripts/golang.go)
+8. Bash / Shell
+9. PowerShell
+10. PHP
+11. C# (.NET)
+12. Ruby
+13. Kotlin
+14. Swift
+15. Dart
+16. Elixir
